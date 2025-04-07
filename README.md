@@ -159,5 +159,3 @@ And gets a reply in her younger voice:
 All in a way that’s *memorable, impactful,* and technically solid.
 
 ---
-
-Let me know if you want a GitHub-ready `README.md` or a pitch deck-style summary too 👀
