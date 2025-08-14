@@ -1,8 +1,4 @@
-**"Memory Lane: AI-Powered Conversational Time Capsule"**. The idea is rich — combining text-based memories, user interaction, and voice cloning to create a *conversational avatar of your past self*. This will definitely look sick in your portfolio or pitch deck.
-
----
-
-# 🧠 Memory Lane: AI-Powered Conversational Time Capsule
+# MirrorOfChronos: AI-Powered Conversational Time Capsule
 
 > “Chat with the person you used to be.”
 
@@ -10,7 +6,7 @@
 
 ## 📌 Project Overview
 
-**Memory Lane** is a personalized AI system that enables users to have conversations with a simulation of their past selves. Using a combination of personal writing, messages, social data, and optionally a custom-trained voice model, the system offers a nostalgic and emotional experience — like flipping through a diary, but interactive and alive.
+**MirrorOfChronos** is a personalized AI system that enables users to have conversations with a simulation of their past selves. Using a combination of personal writing, messages, social data, and optionally a custom-trained voice model, the system offers a nostalgic and emotional experience — like flipping through a diary, but interactive and alive.
 
 ---
 
@@ -124,23 +120,12 @@ We’ll gather data from the following sources:
 - Only user-owned or consent-based data allowed.
 - No data is shared externally or used for training other models.
 
----
-
-## 🚀 Future Roadmap
-
-| Milestone                  | ETA             |
-|---------------------------|------------------|
-| MVP with text-based AI    | Week 2           |
-| Voice module integration  | Week 4           |
-| Web deployment            | Week 5           |
-| Sentiment/memory analytics| Week 6           |
-| Launch + portfolio video  | Week 7           |
 
 ---
 
 ## 📦 Example Use Case
 
-**Sarah, 25**, uploads her journals and chat logs from high school and fills out a personal survey. A week later, she logs into *Memory Lane* and starts a conversation with *“17-Year-Old Sarah.”* She types:
+**Sarah, 25**, uploads her journals and chat logs from high school and fills out a personal survey. A week later, she logs into *MirrorOfChronos* and starts a conversation with *“17-Year-Old Sarah.”* She types:
 > “Hey, do you still worry about college stuff?”
 
 And gets a reply in her younger voice:
@@ -148,13 +133,6 @@ And gets a reply in her younger voice:
 
 ---
 
-## 🧠 Final Thoughts
-
-**Memory Lane** isn’t just an AI project — it’s a time machine for your identity. It showcases:
-- Applied NLP
-- Voice modeling
-- UX creativity
-- Emotional AI
 
 All in a way that’s *memorable, impactful,* and technically solid.
 
