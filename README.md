@@ -10,6 +10,11 @@
 
 ---
 
+I was curious about how I had changed as a person, how my past self would see me now, how my ideals and morals had shifted, and how they might evolve in the future. This project became my way to explore that question.
+
+I chose to solve it by building a mirror of chronology, a system that captures the contours of personality through a detailed form and then feeds that data, along with relevant facts, to a language model for analysis. GPT-OSS-20B was the perfect choice for this purpose because it is open source, lightweight, and capable of strong reasoning, making it ideal for distilling the story of a person’s evolution from raw, structured input.
+
+
 ## 🎯 Objectives
 
 - Recreate a user’s past communication style and personality using their historical data.
